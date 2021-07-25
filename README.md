@@ -27,31 +27,31 @@ The role-playing game is about the player team battling and defeating the enemy 
 
 ### Installing
 
-* Clone the project or download all 5 Python files on your local machine.
+* Clone the project or download all 5 `Python` files on your local machine.
 * Python 3.x required.
 
 ### Executing program
 
 * The file to execute the game is `game.py`.
-* Use the following command:
+* Use the following terminal command:
 ```
 python -u game.py
 ```
 
 ## Authors
 
-* Amandeep Singh the primary developer.
-* Bruce Fuda the original developer.
-* Edwin Griffin the original modifier.
+* `Amandeep Singh` the primary developer.
+* `Bruce Fuda` the original developer.
+* `Edwin Griffin` the original modifier.
 
 ## Version History
 
 * 0.3 - May 2017
     * Program completed
     * Created the `Shop` and `Map` funtionality.
-    * Completed by Amandeep Singh
+    * Completed by `Amandeep Singh`
 * 0.2 - December 2016
     * Various bug fixes and optimizations
-    * Modified by Edwin Griffin
+    * Modified by `Edwin Griffin`
 * 0.1 - May 2016
     * Initial Release developed by `Bruce Fuda`

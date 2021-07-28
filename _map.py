@@ -178,7 +178,8 @@ class Map:
     
     def print_legends(self):
         os.system("cls")
-        print("\n----- MAP LEGENDS -----")
+        print('')
+        print("----- MAP LEGENDS -----")
         print("Player  - {}".format(self.env.player.map.icon))
         print("Enemies - {}".format(" | ".join([x.map.icon for x in self.env.enemies.teams])))
         print("Shop    - {}".format(self.env.shop.map.icon))

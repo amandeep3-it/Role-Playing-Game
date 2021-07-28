@@ -21,9 +21,9 @@ The role-playing game is about the player team battling and defeating the enemy 
 
 ### Dependencies
 
-* Was developed on Windows 10 - Visual Studio Code. The program was executed on the Visual Studio Code - Integrated Terminal.
+* Was developed on `Windows 10 - Visual Studio Code`. The program was executed on the `Visual Studio Code - Integrated Terminal`.
 * Should be executable on any OS and machine that has Python installed.
-* The program utilises the official Python included libraries of `os`, `sys`, `time`, `random`.
+* The program utilises the official Python included libraries of `os`, `sys`, `time` and `random`.
 
 ### Installing
 

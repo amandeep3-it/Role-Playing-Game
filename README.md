@@ -1,7 +1,7 @@
 
 # Role Playing Game - Python
 
-A command-line based Python role-playing game to enhance and develop Python programming skills. Learning goals were to practise the object’s effective interactions with several other objects. Data flow and state management of the game was also well practised.
+A command-line based `Python` role-playing game to enhance and develop Python programming skills. Learning goals were to practise the object’s effective interactions with several other objects. Data flow and state management of the game was also well practised.
 
 ## Description
 
@@ -9,10 +9,11 @@ The role-playing game is about the player team battling and defeating the enemy 
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+[<img align="left" alt="Visual Studio Code" height="50px" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][visual-studio-code]
+[<img align="left" alt="Python" height="50px" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
+[<img align="left" alt="Terminal" height="50px" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
 
+<br/>
 <br/>
 
 ---
@@ -22,13 +23,13 @@ The role-playing game is about the player team battling and defeating the enemy 
 ### Dependencies
 
 * Was developed on `Windows 10 - Visual Studio Code`. The program was executed on the `Visual Studio Code - Integrated Terminal`.
-* Should be executable on any OS and machine that has Python installed.
-* The program utilises the official Python included libraries of `os`, `sys`, `time` and `random`.
+* Should be executable on any OS and machine that has `Python` installed.
+* The program utilises the official `Python` included libraries of `os`, `sys`, `time` and `random`.
 
 ### Installing
 
 * Clone the project or download all 5 `Python` files on your local machine.
-* Python 3.x required.
+* `Python 3.x` required.
 
 ### Executing program
 
@@ -55,3 +56,7 @@ python -u game.py
     * Modified by `Edwin Griffin`
 * 0.1 - May 2016
     * Initial Release developed by `Bruce Fuda`
+
+[visual-studio-code]: https://code.visualstudio.com/
+[python]: https://www.python.org/
+[terminal]: https://www.microsoft.com/en-au/p/windows-terminal/9n0dx20hk701
